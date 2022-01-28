@@ -97,7 +97,7 @@ Get the detailed status of your exports : when it last happened, how many rows h
 
 You can now edit any parameters of your bots.
 
-![{alt:"20211029 - edit bot demo",poster:"https://user-images.githubusercontent.com/2499356/151621282-cb426420-24f7-460f-be46-04d25b33634e.jpg"}](https://user-images.githubusercontent.com/2499356/151620744-bafe5206-a3ed-43ad-b758-8847b8ddb411.mp4)
+![{"alt":"20211029 - edit bot demo","poster":"https://user-images.githubusercontent.com/2499356/151621282-cb426420-24f7-460f-be46-04d25b33634e.jpg"}](https://user-images.githubusercontent.com/2499356/151620744-bafe5206-a3ed-43ad-b758-8847b8ddb411.mp4)
 
 ---
 
