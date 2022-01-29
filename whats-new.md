@@ -25,9 +25,11 @@ Megabot allows you to export campaigns in bulk. Your campaigns appear in the sam
 
 ![megabot demo](https://user-images.githubusercontent.com/2499356/151619169-61db8931-d5f9-4808-8a52-28b4e7644629.mp4)
 
+---
+
 ## Jan 10, 2022
 
-Performance boost 🚀🚀🚀
+Performance boost 🚀
 
 Navigating in lembot.com and its dashboard is way faster.
 
@@ -103,7 +105,9 @@ You can now edit any parameters of your bots.
 
 ## Oct 19, 2021
 
-Lembot now supports scheduling 🎉. Meaning that you can schedule export daily, weekly or monthly at the exact hour and minute you want.
+Lembot now supports scheduling 🎉 
+
+Meaning that you can schedule export daily, weekly or monthly at the exact hour and minute you want.
 
 I am very proud as it has been requested a lot and so tricky to develop. A lot has changed in the inside of lembot to make this possible. It is one of the most exciting news for lembot so far.
 
@@ -121,19 +125,19 @@ Added pattern validation to avoid typos while creating new bot.
 
 ## Sept 22, 2021
 
-Something great happens, lembot is now faster than ever 🚀.
+Something great happens, lembot is now faster than ever 🚀
 
 I have been working for months on migrating lembot's server offering now faster website, dashboard, exports, everything.
 
 Enjoy!
 
-And, another great news... This upgrade was necessary to enable the scheduling. Yes, scheduling is almost there, I am actively testing it, stay tuned 🤩.
+And, another great news... This upgrade was necessary to enable the scheduling. Yes, scheduling is almost there, I am actively testing it, stay tuned 🤩
 
 ---
 
 ## Sept 7, 2021
 
-Added conversation bubble everywhere in the website 💬.
+Added conversation bubble everywhere in the website 💬
 
 Feel free to chat with me if you have any questions or suggestions.
 
