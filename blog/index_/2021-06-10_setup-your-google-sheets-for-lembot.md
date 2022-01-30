@@ -14,7 +14,7 @@ author:
 tag: "how to"
 ---
 
-# How to setup your google sheets for lembot
+# Setup your google sheets for lembot
 
 Without your explicit permission, lembot cannot edit your Google Sheets and you will get a Google API error `[403] The caller does not have permission`.
 
