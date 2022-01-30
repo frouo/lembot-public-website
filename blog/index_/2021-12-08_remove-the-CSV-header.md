@@ -14,17 +14,17 @@ author:
 tag: "how to"
 ---
 
-# How to remove the CSV header
+# Remove the CSV header
 
 The CSV header is the row that contains your columns name
 
 ![csv header](https://user-images.githubusercontent.com/2499356/151677713-533bb9ae-66cf-4e2c-9a2f-1a721b8e7b93.png)
 
-In some case you don’t want to export this header.
+In some case you want to export your data without the header.
 
 There is an option for that in lembot.
 
-## The option
+## How To
 
 Choose keep header or remove header while creating a bot.
 
@@ -34,7 +34,7 @@ Choose keep header or remove header while creating a bot.
 
 In this demo, I use this feature to append an export to another. 
 
-☝️ if you actually want to export campaigns in bulk, there is a feature just for that, it's called [megabot ↗️](http://lembot.com/blog/bulk-lemlist-campaigns-export).
+☝️ if you actually want to export several campaigns at once, in the same sheet, there is a feature just for that, it's called **megabot**. See [how to ↗️](http://lembot.com/blog/bulk-lemlist-campaign-exports).
 
 ![demo remove CSV header](https://user-images.githubusercontent.com/2499356/151677688-3da35aa3-e0fe-4053-988f-cde995e03230.mp4)
 
