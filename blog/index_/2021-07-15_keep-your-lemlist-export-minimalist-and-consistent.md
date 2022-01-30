@@ -14,7 +14,7 @@ author:
 tag: "how to"
 ---
 
-# How to keep your lemlist export minimalist and consistent
+# Keep your lemlist export minimalist and consistent
 
 With lembot, you can choose between extracting all the CSV or only a set of columns.
 
@@ -31,7 +31,7 @@ When you select columns, the export stay consistent over time. So does your form
 
 ![demo select outputs](https://user-images.githubusercontent.com/2499356/151677420-57011d17-11bd-4047-95b2-0879a3afb883.mp4)
 
-## Step by step
+## How To
 
 ### Step 1
 
@@ -61,7 +61,7 @@ Click one of the input to edit your selection.
 
 ### That's it 🎉
 
-Click "Run export" to export only the selected columns of your Lemlist campaign to your Google Sheets.
+Click "Run export" to only export the selected variables to your Google Sheets.
 
 ![4 Choose_outputs_done](https://user-images.githubusercontent.com/2499356/151677451-2ab9b26e-21a9-4f70-aa15-ee573caa2300.jpg)
 
