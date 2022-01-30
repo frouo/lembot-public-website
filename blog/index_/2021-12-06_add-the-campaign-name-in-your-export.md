@@ -14,7 +14,7 @@ author:
 tag: "how to"
 ---
 
-# How to add the campaign name in your export
+# Add the campaign name in your export
 
 With lembot you can add the campaign name in your export.
 
@@ -22,7 +22,7 @@ Lembot will automatically insert a new column called `campaignName` and add the 
 
 ![column campaignName](https://user-images.githubusercontent.com/2499356/151704171-b7e0f5a1-420f-4ee6-bd8e-affbb7c9e2df.png)
 
-## The option
+## How To
 
 While creating or editing a bot, just select the option "Add the campaign name".
 
