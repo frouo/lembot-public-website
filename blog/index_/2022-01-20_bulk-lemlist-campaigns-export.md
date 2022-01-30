@@ -14,7 +14,7 @@ author:
 tag: "how to"
 ---
 
-# How to bulk lemlist campaign exports
+# Bulk lemlist campaign exports
 
 Picture this, you have 26 campaigns, with different variables:
 
@@ -33,9 +33,9 @@ Using lembot, it's super easy ✌️, there is a feature designed just for that.
 
 Create a **megabot** then click the "Run mega export" button.
 
-# Creating a megabot is super easy
+# How To
 
-Go to [create new megabot page ↗️](https://lembot.com/dashboard/megabots/new)
+In your dashboard, click [create new megabot ↗️](https://lembot.com/dashboard/megabots/new)
 
 Follow the 5 steps configuration tutorial
 
