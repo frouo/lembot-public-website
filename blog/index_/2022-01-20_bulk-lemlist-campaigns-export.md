@@ -1,8 +1,8 @@
 ---
 head:
-  title: "Lembot • Bulk campaign exports"
+  title: "Lembot • Bulk lemlist campaign exports"
 card:
-  title: "Bulk campaigns in a single export"
+  title: "Bulk lemlist campaign exports"
   description: "With lembot you can export several campaigns in one sheet, one below the other, with automatic columns matching. Let me show you."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
@@ -14,7 +14,7 @@ author:
 tag: "how to"
 ---
 
-# How to export lemlist campaigns in bulk with megabot
+# How to bulk lemlist campaign exports
 
 Picture this, you have 26 campaigns, with different variables:
 
@@ -23,15 +23,15 @@ Picture this, you have 26 campaigns, with different variables:
 - ...
 - **Campaign Z**
 
-And you want all of them in one single sheet.
+And you want to export all of them at once in one single sheet.
 
-With columns matching!
+With columns matching of course!
 
 This would be a nightmare by hand 🤯
 
-Using lembot, it's super easy ✌️
+Using lembot, it's super easy ✌️, there is a feature designed just for that.
 
-Just create a megabot then click "Run mega export".
+Create a **megabot** then click the "Run mega export" button.
 
 # Creating a megabot is super easy
 
