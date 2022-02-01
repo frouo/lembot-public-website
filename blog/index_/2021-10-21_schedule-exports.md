@@ -26,7 +26,7 @@ Scheduling is very intuitive as you can see:
 
 ![schedule export](https://user-images.githubusercontent.com/2499356/152033150-a31d877a-1b0d-43ec-abfe-efd47490f7da.mp4)
 
-## Eco-friendly side node 🌳
+## Eco-friendly side note 🌳
 
 _because we care and we don't hear enough about it in the internet eco-system IMO_
 
