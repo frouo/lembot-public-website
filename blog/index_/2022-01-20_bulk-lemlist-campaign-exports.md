@@ -20,18 +20,16 @@ Picture this, you have 26 campaigns, with different variables:
 
 - **Campaign A**
 - **Campaign B**
-- ...
+- ⬇️
 - **Campaign Z**
 
-And you want to export all of them at once in one single sheet.
+... that you want to export all at once in one single sheet, with columns matching of course!
 
-With columns matching of course!
+This would be a nightmare by hand right? 🤯
 
-This would be a nightmare by hand 🤯
+Using lembot, it's super easy ✌️
 
-Using lembot, it's super easy ✌️, there is a feature designed just for that.
-
-Create a **megabot** then click the "Run mega export" button.
+There is a feature designed just for that, it's called **megabot**.
 
 # How To
 
