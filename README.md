@@ -6,19 +6,23 @@ This repo is the CMS for lembot static pages (except home page that I wanted hig
 - [/what-new](https://lembot.com/whats-new)
 - [/blog](https://lembot.com/blog) & blog posts
 
-## why?
+## Why
 
-I ❤️ markdown : it's super fast to write and you know precisely how it will be rendered.
+Because
+
+I ❤️ markdown : super simple to write and the result (header, link, paragraphe) is 100% predictible.
 
 I ❤️ git : versioning comes for free.
 
 I ❤️ writing markdown on github : `Add new file` -> `demo.md` -> start writing markdown / 👁️ preview / 💾 images hosting as simple as a drag-n-drop
 
-## how?
+## How
 
-lembot.com is coded from scratch with [nextjs](https://nextjs.org/).
+I am using [nextjs](https://nextjs.org/).
 
-Blog with nextjs is easy (see example [here](https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript)) but it's a bit of boilerplate code.
+Building a website with nextjs is super easy and Vercel (the company behind nextjs) provide a blog sample code (see [here](https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript)).
+
+It is super easy, yes. But it's a bit of boilerplate code.
 
 I wrapped this boilerplate code in simple functions like `getStaticPropsFromMarkdownFileUrl`, components like `<MarkdownPage />` and so.
 
