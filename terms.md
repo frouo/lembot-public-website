@@ -23,4 +23,4 @@ Lembot's service may change without prior notice. Changes could affect pricing, 
 
 If you are a paying customer, your subscription (pricing) won’t change as long as you're a customer. For example, you subscribed to lembot at $10/mo, next year lembot is updating the pricing to $29/mo, your subscription will remain at $10/mo until you expressly cancel your subscription.
 
-Lembot automatically subscribes your email to its newsletter. We send a newsletter every 2 weeks approximately to inform our users of what's new in lembot. You can unsubscribe anytime by clicking the unsubscribe link in the email.
+At signup lembot automatically subscribes your email to its newsletter. We are a small company focusing on delivering value: our newsletter is about what's new in lembot (new features). It happens every 2 weeks or so. You can unsubscribe by clicking the unsubscribe link at the bottom of the email.
