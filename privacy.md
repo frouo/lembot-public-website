@@ -27,21 +27,15 @@ Only you can access your data.
 
 This data is stored on databases within the EU and, as such, lembot.com is bound to EU data laws and practices such as GDPR.
 
-### Deletion of your personal data
+## Deletion of your personal data
 
 At any time you can request the cancellation of your account and full deletion of your data. This will remove all your personal data listed above.
 
 To do so, please send your request to [privacy@lembot.com](mailto:privacy@lembot.com).
 
-## Your lemlist leads data and Google Sheets data
+## Your lemlist leads and Google Sheets data
 
-Lembot.com does **not** store the data of your lemlist campaigns, nor the data of your Google Sheets.
-
-### Deletion of leads data
-
-Lembot.com does **not** store the data of your lemlist campaigns, nor the data of your Google Sheets.
-
-There is nothing to delete because lembot.com does not store your campaigns data.
+Lembot.com does **not** store at all the data of your lemlist campaigns, nor leads, nor the data in your Google Sheets.
 
 ## Service providers
 
@@ -49,7 +43,7 @@ Lembot.com will send the minimum personal data to the following services listed 
 
 [Stripe ↗️](https://stripe.com/): payments processor (your email address)
 
-[Splitbee ↗️](https://splitbee.io/): usage analytics (your email address)
+[Splitbee ↗️](https://splitbee.io/): usage analytics (your email address); Splitbee is a company based in Austria (Europe).
 
 **Servers region**: Frankfurt Germany (West), Europe.
 
