@@ -3,7 +3,7 @@ head:
   title: "Lembot • Privacy Policy"
   meta:
     title: "Lembot • Privacy Policy"
-    description: "To make it short: RGPD compliant, only the necessary data is stored, servers and database are in the EU"
+    description: "To make it short, lembot is GDPR compliant, only the necessary data is stored, servers and database are in the EU."
 coverUrl: "https://c.pxhere.com/photos/f4/30/wall_e_robot_figure_toy_technology_movie_pixar_plastic-686056.jpg!d"
 emoji: "🔐"
 date: "2022-02-11"
@@ -38,6 +38,12 @@ To do so, please send your request to [privacy@lembot.com](mailto:privacy@lembot
 Lembot.com does **not** store at all the data of your lemlist campaigns, nor leads, nor the data in your Google Sheets.
 
 Lembot automates the transfer from lemlist to Google Sheets: once the transfer is done (success or failure), lembot deletes the data right away.
+
+What is `lembot@lembot.iam.gserviceaccount.com`?
+
+Lembot needs write authorization to transfer your data in your Gsheet. To make your life easier, Lembot created what's called a [Google Service Account ↗️](https://cloud.google.com/iam/docs/service-accounts) you can share your GSheet with. 
+
+> A service account is a special kind of account used by an application (Editor's note: here lembot) rather than a person.
 
 ## Service providers
 
