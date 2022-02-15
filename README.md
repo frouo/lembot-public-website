@@ -9,7 +9,7 @@ This repo is the CMS for lembot static pages:
 
 ## Why
 
-I wanted a full custom home page for my website (`index.ts`), and an easy way to generate all the "more common" pages.
+I wanted a full custom home page for my website ([lembot.com](https://lembot.com)), and an easy way to generate all the "more common" pages.
 
 Using markdown and github because:
 
