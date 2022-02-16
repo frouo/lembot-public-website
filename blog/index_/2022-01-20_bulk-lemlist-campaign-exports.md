@@ -31,7 +31,7 @@ Using lembot, it's super easy ✌️
 
 There is a feature designed just for that, it's called **megabot**.
 
-# How To
+## How To
 
 In your dashboard, click "Create a Megabot" button
 
@@ -43,7 +43,7 @@ And that's it !
 
 Schedule or run as many mega export as you need.
 
-# Demo
+## Demo
 
 ![how to create a megabot](https://user-images.githubusercontent.com/2499356/151677870-bdcc60a0-c37c-4780-99e2-ff0012b789a0.mp4)
 
