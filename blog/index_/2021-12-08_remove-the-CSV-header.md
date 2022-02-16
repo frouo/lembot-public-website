@@ -34,7 +34,7 @@ Choose keep header or remove header while creating a bot.
 
 In this demo, I use this feature to append an export to another. 
 
-☝️ if you actually want to export several campaigns at once, in the same sheet, there is a feature just for that, it's called **megabot**. See [how to ↗️](http://lembot.com/blog/bulk-lemlist-campaign-exports).
+☝️ if you actually want to export several campaigns at once, in the same sheet, there is a feature just for that, it's called **megabot**. See [how to ↗️](https://lembot.com/blog/bulk-lemlist-campaign-exports).
 
 ![demo remove CSV header](https://user-images.githubusercontent.com/2499356/151677688-3da35aa3-e0fe-4053-988f-cde995e03230.mp4)
 
