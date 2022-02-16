@@ -33,11 +33,11 @@ There is a feature designed just for that, it's called **megabot**.
 
 # How To
 
-In your dashboard, click [create new megabot ↗️](https://lembot.com/dashboard/megabots/new)
+In your dashboard, click "Create a Megabot" button
 
-Follow the 5 steps configuration tutorial
+Go through the 5 steps configuration guide
 
-Click save
+Click "Save"
 
 And that's it !
 
