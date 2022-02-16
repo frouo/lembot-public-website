@@ -63,7 +63,7 @@ Filter lemlist campaigns by tags and/or show archived campaigns.
 
 Choose to exclude the CSV header from your export if needed.
 
-This option allows you to add an export below another in the same sheet, see [how to](https://www.notion.so/How-to-authorize-lembot-to-edit-your-Google-Sheets-28a6f703e6364a6aafbd191bc859f7cf).
+This option allows you to add an export below another in the same sheet, see [how to](https://lembot.com/blog/setup-your-google-sheets-for-lembot).
 
 ![20211207 - remove header](https://user-images.githubusercontent.com/2499356/151619917-ab280a95-6354-4ee3-9cdf-9b402db515f9.jpg)
 
@@ -149,7 +149,7 @@ Feel free to chat with me if you have any questions or suggestions.
 
 Choose the columns you want to export from the CSV.
 
-It is very intuitive, see by yourself in the [how to](lembot.com/blog).
+It is very intuitive, see by yourself in this [how to](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent).
 
 ![select data to export demo](https://user-images.githubusercontent.com/2499356/151622284-07c17f6f-18db-4064-bbca-e2e1844725b3.mp4)
 
