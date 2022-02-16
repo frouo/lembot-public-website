@@ -38,7 +38,7 @@ You, as a user, are my best inputs. Tell me what would improve your productivity
 
 ## Who is behind
 
-Hello, I am François, the developer of [lembot.com](http://lembot.com) 👋 and fan of the lemlist's team, tools and growth.
+Hello, I am François, the developer of [lembot.com](https://lembot.com) 👋 and fan of the lemlist's team, tools and growth.
 
 ## Lembot's date of birth
 
