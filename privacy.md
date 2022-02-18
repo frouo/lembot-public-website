@@ -11,7 +11,17 @@ date: "2022-02-11"
 
 # Privacy Policy
 
-This Privacy Policy was last updated on 11th February 2022.
+This Privacy Policy was last updated on 18th February 2022.
+
+## TLDR
+
+Lembot
+
+* is GDPR compliant
+* uses minimum personal data in order to run the service
+* does not store any data about your leads
+
+More details below 👇
 
 ## In general
 
@@ -49,7 +59,7 @@ Lembot needs write authorization to transfer your data in your Gsheet. To make y
 
 Lembot.com will send the minimum personal data to the following services listed below in order to complete the lembot.com service. These service providers are not permitted by law to disclose or use your personal data.
 
-[Stripe ↗️](https://stripe.com/): payments processor (your email address)
+[Stripe ↗️](https://stripe.com/): payments processor (your email address as soon as you are a paying customer)
 
 [Splitbee ↗️](https://splitbee.io/), a company based in Austria, Europe: usage analytics (your email address)
 
