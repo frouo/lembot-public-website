@@ -58,10 +58,10 @@ It is super easy:
 - select the campaign to export
 - paste your gsheet URL
 - select your sheet
-- (optionnaly) schedule automatic export
+- (optionally) schedule automatic export
 - save
 
-Click Export whenever you need to export. That's it 🎉
+Click "Export" whenever you need to export your campaign results. That's it 🎉
 
 [Try lembot for free, no credit card required ↗️](https://lembot.com/signup)
 
@@ -71,15 +71,17 @@ You can do a lot more with lembot.
 
 - schedule your export every days / weekdays / weeks / months, see [how to ↗️](https://lembot.com/blog/schedule-exports)
 - bulk export your lemlist campaigns, see [how to ↗️](https://lembot.com/blog/bulk-export-your-lemlist-campaigns)
-- export only the data you care about, see [how to ↗️](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent)
+- choose which columns to export, see [how to ↗️](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent)
 - add the campaign name to your export, see [how to ↗️](https://lembot.com/blog/add-the-campaign-name-in-your-export)
 - etc.
 
 ## Feature request
 
-Lembot is built based on your feedback, you can see it in our [whats-new ↗️](https://lembot.com/whats-new) page.
+We regularly update lembot with new features, see our [whats-new ↗️](https://lembot.com/whats-new) page.
 
-So feel free to chat or send an [email 📧](francois@lembot.com) if you have feature requests.
+All features are based on your feedback so feel free to chat or send an [email 📧](francois@lembot.com) if you have any suggestions.
+
+Note that lembot is not affiliated with lemlist, we are lemlisters like you and we built lembot to make us more productive.
 
 ---
 
