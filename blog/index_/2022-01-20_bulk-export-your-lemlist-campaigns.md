@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Bulk export your lemlist campaigns"
+  meta:
+    title: "How to bulk export your lemlist campaigns"
+    description: "Export several campaigns into the same gsheet, one below the other, with automatic columns matching."
 card:
   title: "Bulk export your lemlist campaigns"
   description: "With lembot you can export several campaigns into the same gsheet, one below the other, with automatic columns matching. Let me show you how."

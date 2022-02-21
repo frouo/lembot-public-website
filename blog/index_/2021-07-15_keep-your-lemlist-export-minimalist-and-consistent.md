@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Keep your lemlist export minimalist and consistent"
+  meta:
+    title: "Keep your lemlist campaign result minimalist and consistent"
+    description: "Only export the data you care about: select which columns to export from lemlist so your sheets stay minimal and consistent"
 card:
   title: "Keep your lemlist export minimalist and consistent"
   description: "With lembot you can select which columns to export from lemlist so your sheets stay minimal and consistent"

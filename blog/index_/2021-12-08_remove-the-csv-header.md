@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Remove the CSV header"
+  meta:
+    title: "How to remove the CSV header from your lemlist results"
+    description: "With lembot you can decide not to export the CSV header. Let me show you how and why"
 card:
   title: "Remove the CSV header"
   description: "With lembot you can decide not to export the CSV header. Let me show you how and why"

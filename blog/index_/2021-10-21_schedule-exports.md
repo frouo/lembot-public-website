@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Schedule exports"
+  meta:
+    title: "How to schedule automatic export of your lemlist campaign results"
+    description: "With lembot you can schedule exports to run daily, on weekdays, weekly or monthly. It's just one click."
 card:
   title: "Schedule exports"
   description: "With lembot you can schedule your exports to run daily, on weekdays, weekly or monthly. Let me show you how."
@@ -39,11 +42,11 @@ Just keep in mind that every uneccessary exports unnecessarily increases lembot'
 Be reassured, it's not much but you know if we can make a little something for our planet for free, let's do it.
 
 Don't get me wrong, I am not blaming anyone here. Hey, I have my share of responsibility here because schedule interval is not part of the lembot's pricing: refresh daily or monthly, same price. That's because I trust lembot's users ❤️
- 
+
 Again, if your business requires daily updates then go for it, lembot is better than doing it manually as I said above.
- 
+
 TLDR:
- 
+
 Schedule exports at the frequency your business requires. No need to consume more than necessary. For our planet 🌍
 
 ---

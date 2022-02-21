@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Setup your google sheets for lembot"
+  meta:
+    title: "Setup your Google Sheets for lembot"
+    description: "Lembot app needs your explicit permission to write your lemlist campaign result into your sheet. Hopefully it's super easy and 100% secure"
 card:
   title: "Setup your google sheets for lembot"
   description: "Without your explicit permission, lembot cannot edit your Google Sheets. Hopefully it's a one-time super easy setup."

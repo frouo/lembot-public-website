@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Hello World"
+  meta:
+    title: "Lembot Hello World"
+    description: "What is lembot and why"
 card:
   title: "Hello World"
   description: "What is lembot and why"
@@ -18,13 +21,13 @@ tag: "blabla"
 
 ## What is lembot
 
-Lembot is an online automation tool dedicated to [Lemlist](https://lemlist.com).
+Lembot is an online automation tool dedicated to [lemlist](https://lemlist.com).
 
-It automatically exports your Lemlist campaigns in your Google Sheets.
-
-At least for now.
+It automatically exports your Lemlist campaign results in your Google Sheets.
 
 Lembot aims to be your automation partner throughout your journey with Lemlist 🚀
+
+Lembot is not affialiated with lemlist.
 
 ## Why
 

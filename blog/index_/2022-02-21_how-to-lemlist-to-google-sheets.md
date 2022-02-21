@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • How to lemlist to Google Sheets"
+  meta:
+    title: "How to lemlist to Google Sheets"
+    description: "Discover lembot, the best lemlist to Google Sheets integration. Made for lemlisters by lemlisters"
 card:
   title: "How to lemlist to Google Sheets"
   description: "Discover lembot, the best lemlist to Google Sheets integration. Made for lemlisters by lemlisters."

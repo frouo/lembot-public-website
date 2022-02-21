@@ -1,6 +1,9 @@
 ---
 head:
   title: "Lembot • Add the campaign name in your export"
+  meta:
+    title: "How to add the campaign name to your lemlist export"
+    description: "Easier to organize your data when you know from which campaign it comes from. Add the campaign name to your lemlist export in 1-click"
 card:
   title: "Add the campaign name in your export"
   description: "With lembot you can choose to add the campaign name in your export"
