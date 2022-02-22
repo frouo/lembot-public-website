@@ -7,33 +7,37 @@ This repo is the CMS for lembot static pages:
 - [/whats-new](https://lembot.com/whats-new)
 - [/blog](https://lembot.com/blog) & blog posts
 
-## Why
+## Motivation
 
-I wanted a full custom home page for my website ([lembot.com](https://lembot.com)), and an easy way to generate all the "more common" pages.
+Like me, you probably focus all your effort in building a 100% custom `index.ts` home page to make it as **salesy** as possible.
 
-Using markdown and github because:
+What for all other pages, thoses pages where only the content matters?
 
-I ❤️ markdown : super simple to write and the result (header, link, paragraphe) is 100% predictible.
+For those pages, I wanted an easy way to generate them, edit them, write new ones, etc.
 
-I ❤️ git : versioning comes for free.
+Using **markdown** and **github** sounds the best option for me because:
 
-I ❤️ writing markdown on github : `Add new file` -> `demo.md` -> start writing markdown / 👁️ preview / 💾 drag-n-drop images hosting
+* I ❤️ markdown: super simple to write and the result (headers, paragraphs, links) is 100% predictible
+* I ❤️ git: versioning comes for free
+* I ❤️ writing markdown on Github: the editor is smart enough 🧠, has a preview mode 👁️ and provides drag-n-drop free images hosting 🌆
 
 ## How
 
 I am using [nextjs](https://nextjs.org/).
 
-Building a website with nextjs is super easy and there are lots of nextjs blog sample code (official [here](https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript) for example).
+Building a website with nextjs is super easy and there are a lot of nextjs blog sample code out there (official [here](https://github.com/vercel/next.js/tree/canary/examples/blog-starter-typescript) for example).
 
-It is super easy, yes. But it's a bit of boilerplate code.
+Ok, it is super easy. But it's a bit of boilerplate code.
 
 I wrapped this boilerplate code in simple functions like `getStaticPropsFromMarkdownFileUrl`, components like `<MarkdownPage />` and so.
 
 Gonna share this soon.
 
-Gonne be as simple as copy/pasting the `[nextmd].ts` file in your project.
+Gonna be as simple as copy/pasting the `[nextmd].ts` file in your project.
 
 ```
 pages/
   - [...nextmd].ts
 ```
+
+[Follow me on Twitter](https://twitter.com/frouo) if you are interested. I am building this in public.
