@@ -23,7 +23,9 @@ If you want to analyze the results of your campaign more deeply, you can export 
 
 At this point you have the power of Google Sheets to make your data meaningful, draw stats, etc.
 
-## The easy way: use lembot
+## The easy way
+
+Use lembot 💪
 
 Lembot is an online automation tool that automates the export of your lemlist campaign results into your Google Sheets.
 
@@ -42,9 +44,11 @@ Click "Export" whenever you need to export your campaign results. That's it 🎉
 
 [Try lembot for free, no credit card required ↗️](https://lembot.com/signup)
 
-## The hard way: do it all by hand
+## The hard way
 
-Without lembot things gets harder. Here are all the steps you must do all by hand:
+Do it all by hand.
+
+Without lembot things get harder. Here are the steps you need to follow to achieve the same result, all by hand:
 
 - open your lemlist dashboard
 - open Reports
@@ -58,9 +62,11 @@ Without lembot things gets harder. Here are all the steps you must do all by han
 - choose the right options for your import
 - and finally, click Import data
 
-Let's be honest, it is a heavy work and bad use of your time IMO. No one wants to do this every... week?
+Let's be honest, it's time-consuming, error-prone work with 0 added value.
 
-[I prefer the easy way and want to try lembot ↗️](https://lembot.com/signup)
+That's why we created lembot to automate everything listed above so you can focus your time and your brain to bring value to your business.
+
+[Sounds awesome, I want to try lembot ↗️](https://lembot.com/signup)
 
 ## Do more with lembot
 
