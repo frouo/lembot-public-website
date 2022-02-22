@@ -23,32 +23,9 @@ If you want to analyze the results of your campaign more deeply, you can export 
 
 At this point you have the power of Google Sheets to make your data meaningful, draw stats, etc.
 
-## Before lembot
+## The easy way: use lembot
 
-All the details
-
-- Export: Lemlist describes how to do so [here ↗️](https://help.lemlist.com/en/articles/4452750-export-my-campaign-results).
-- Import: Google Sheets describes how to do so [here ↗️](https://support.google.com/docs/answer/40608).
-
-To sum up, this are all the steps you must do. All by hand,
-
-- open your [lemlist dashboard](https://app.lemlist.com)
-- open Reports
-- find and select your campaign
-- click Export
-- wait until the export is ready 😴
-- download the CSV
-- open your Google spreadsheet
-- click File / Import
-- find the right CSV among others on your computer 🤯. Good luck when it looks like `fil_axp_CvGPWvb3AxzDbFhJQ_nouvelle_campagne_anne.csv` 😅
-- choose the right options for your import
-- and finally, click Import data
-
-Let's be honest, it is a heavy duty. No one wants to do this every... week?
-
-## Here comes lembot
-
-Everything listed above is done automatically by lembot.
+Lembot is an online automation tool that automates the export of your lemlist campaign results into your Google Sheets.
 
 All you need to do is to create a `Bot`. A bot is like a zap for Zapier.
 
@@ -65,7 +42,27 @@ Click "Export" whenever you need to export your campaign results. That's it 🎉
 
 [Try lembot for free, no credit card required ↗️](https://lembot.com/signup)
 
-## Lembot extra
+## The hard way: do it all by hand
+
+Without lembot things gets harder. Here are all the steps you must do all by hand:
+
+- open your lemlist dashboard
+- open Reports
+- find and select your campaign
+- click Export
+- wait until the export is ready 😴
+- download the CSV
+- open your Google spreadsheet
+- click File / Import
+- find the right CSV among others on your computer 🤯. Good luck when it looks like `fil_axp_CvGPWvb3AxzDbFhJQ_campaign_x.csv` 😅
+- choose the right options for your import
+- and finally, click Import data
+
+Let's be honest, it is a heavy work and bad use of your time IMO. No one wants to do this every... week?
+
+[I prefer the easy way and want to try lembot ↗️](https://lembot.com/signup)
+
+## Do more with lembot
 
 You can do a lot more with lembot.
 
@@ -75,13 +72,15 @@ You can do a lot more with lembot.
 - add the campaign name to your export, see [how to ↗️](https://lembot.com/blog/add-the-campaign-name-in-your-export)
 - etc.
 
-## Feature request
+## Building lembot with you
 
 We regularly update lembot with new features, see our [whats-new ↗️](https://lembot.com/whats-new) page.
 
 All features are based on your feedback so feel free to chat or send an [email 📧](francois@lembot.com) if you have any suggestions.
 
 Note that lembot is not affiliated with lemlist, we are lemlisters like you and we built lembot to make us more productive.
+
+[Ready? Try lembot for free ↗️](https://lembot.com/signup)
 
 ---
 
