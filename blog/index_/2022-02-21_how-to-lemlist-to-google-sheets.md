@@ -40,7 +40,7 @@ It is super easy:
 - (optionally) schedule automatic export
 - save
 
-Click "Export" whenever you need to export your campaign results. That's it 🎉
+Click "Export" whenever you need to export your campaign results. That's it 🤩
 
 [Try lembot for free, no credit card required ↗️](https://lembot.com/signup)
 
@@ -58,7 +58,7 @@ Without lembot things get harder. Here are the steps you need to follow to achie
 - download the CSV
 - open your Google spreadsheet
 - click File / Import
-- find the right CSV among others on your computer 🤯. Good luck when it looks like `fil_axp_CvGPWvb3AxzDbFhJQ_campaign_x.csv` 😅
+- find the right CSV among others on your computer 🤯. Good luck when it looks like `fil_axp_CvGPWvb3AxzDbFhJQ_campaign_x.csv`
 - choose the right options for your import
 - and finally, click Import data
 
@@ -72,17 +72,17 @@ That's why we created lembot to automate everything listed above so you can focu
 
 You can do a lot more with lembot.
 
-- schedule your export every days / weekdays / weeks / months, see [how to ↗️](https://lembot.com/blog/schedule-exports)
-- bulk export your lemlist campaigns, see [how to ↗️](https://lembot.com/blog/bulk-export-your-lemlist-campaigns)
-- choose which columns to export, see [how to ↗️](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent)
-- add the campaign name to your export, see [how to ↗️](https://lembot.com/blog/add-the-campaign-name-in-your-export)
+- schedule your export every days / weekdays / weeks / months, see [how to](https://lembot.com/blog/schedule-exports)
+- bulk export your lemlist campaigns, see [how to](https://lembot.com/blog/bulk-export-your-lemlist-campaigns)
+- choose which columns to export, see [how to](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent)
+- add the campaign name to your export, see [how to](https://lembot.com/blog/add-the-campaign-name-in-your-export)
 - etc.
 
 ## Building lembot with you
 
-We regularly update lembot with new features, see our [whats-new ↗️](https://lembot.com/whats-new) page.
+We regularly update lembot with new features, see our [whats-new](https://lembot.com/whats-new) page.
 
-All features are based on your feedback so feel free to chat or send an [email 📧](francois@lembot.com) if you have any suggestions.
+All features are based on your feedback so feel free to chat or send an [email](francois@lembot.com) if you have any suggestions.
 
 Note that lembot is not affiliated with lemlist, we are lemlisters like you and we built lembot to make us more productive.
 
