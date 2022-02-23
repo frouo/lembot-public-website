@@ -82,7 +82,7 @@ You can do a lot more with lembot.
 
 We regularly update lembot with new features, see our [whats-new](https://lembot.com/whats-new) page.
 
-All features are based on your feedback so feel free to chat or send an [email](francois@lembot.com) if you have any suggestions.
+All features are based on your feedback so feel free to chat or send an [email](mailto:francois@lembot.com) if you have any suggestions.
 
 Note that lembot is not affiliated with lemlist, we are lemlisters like you and we built lembot to make us more productive.
 
