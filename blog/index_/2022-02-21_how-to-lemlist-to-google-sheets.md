@@ -1,12 +1,12 @@
 ---
 head:
-  title: "Lembot • How to lemlist to Google Sheets"
+  title: "Lembot • How to Lemlist to Google Sheets"
   meta:
-    title: "How to lemlist to Google Sheets"
-    description: "Discover lembot, the best lemlist to Google Sheets integration. Made for lemlisters by lemlisters"
+    title: "How to Lemlist to Google Sheets"
+    description: "Discover lembot, the best Lemlist to Google Sheets integration. Made for lemlisters by lemlisters"
 card:
-  title: "How to lemlist to Google Sheets"
-  description: "Discover lembot, the best lemlist to Google Sheets integration. Made for lemlisters by lemlisters."
+  title: "How to Lemlist to Google Sheets"
+  description: "Discover lembot, the best Lemlist to Google Sheets integration. Made for lemlisters by lemlisters."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2022-02-21"
@@ -17,7 +17,7 @@ author:
 tag: "how to"
 ---
 
-# How to lemlist to Google Sheets
+# How to Lemlist to Google Sheets
 
 If you want to analyze the results of your campaign more deeply, you can export them from lemlist and import them back to Google Sheets.
 
