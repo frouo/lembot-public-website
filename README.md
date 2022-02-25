@@ -33,11 +33,8 @@ I wrapped this boilerplate code in simple functions like `getStaticPropsFromMark
 
 Gonna share this soon.
 
-Gonna be as simple as copy/pasting the `[nextmd].ts` file in your project.
+Gonna be as simple as create a [...nextmd].tsx file, init `NextMd` with your git repo, call `getStaticPaths` and `getStaticProps`, draw your layout, and that's it 🔥
 
-```
-pages/
-  - [...nextmd].ts
-```
+![wip](https://user-images.githubusercontent.com/2499356/155738752-c17686a3-d572-4e72-8563-e70438bdde38.jpeg)
 
 [Follow me on Twitter](https://twitter.com/frouo) if you are interested. I am building this in public.
