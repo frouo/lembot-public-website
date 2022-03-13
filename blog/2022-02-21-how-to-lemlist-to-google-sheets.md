@@ -33,14 +33,14 @@ All you need to do is to create a `Bot`. A bot is like a zap for Zapier.
 
 It is super easy:
 
-- paste your lemlist API keys
-- select the campaign to export
-- paste your gsheet URL
-- select your sheet
+- Step1: paste your lemlist API keys, all your campaigns appear automatically so you select the one to export
+- Step2: paste your gsheet URL, all your sheets appear automatically so you can select in which one to import the data
 - (optionally) schedule automatic export
-- save
+- click Save
 
-Click "Export" whenever you need to export your campaign results. That's it 🤩
+That's it 🤩
+
+Now click "Export" whenever you need a fresh export of your campaign results.
 
 [Try lembot for free, no credit card required ↗️](https://lembot.com/signup)
 
@@ -57,8 +57,11 @@ Without lembot things get harder. Here are the steps you need to follow to achie
 - wait until the export is ready 😴
 - download the CSV
 - open your Google spreadsheet
-- click File / Import
-- find the right CSV among others on your computer 🤯. Good luck when it looks like `fil_axp_CvGPWvb3AxzDbFhJQ_campaign_x.csv`
+- click File 
+- hover Import, click
+- click the Upload tab
+- click Select a file from your device
+- find the right CSV among others on your computer, good luck when file name looks like `fil_axp_CvGPWvb3AxzDbFhJQ_campaign_x.csv` 🤯
 - choose the right options for your import
 - and finally, click Import data
 
@@ -66,7 +69,7 @@ Let's be honest, it's time-consuming, error-prone work with 0 added value.
 
 That's why we created lembot to automate everything listed above so you can focus your time and your brain to bring value to your business.
 
-[Sounds awesome, I want to try lembot ↗️](https://lembot.com/signup)
+[I prefer the easy way. Let's try lembot ↗️](https://lembot.com/signup)
 
 ## Do more with lembot
 
