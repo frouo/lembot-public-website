@@ -1,12 +1,10 @@
 ---
 head:
-  title: "Lembot • Hello World"
-  meta:
-    title: "Lembot Hello World"
-    description: "What is lembot and why"
+  title: "Hello World - Lembot Blog"
+  description: "Discover the lembot identity card. What is lembot, the motivations behind it, why we decide to build lembot and the long term vision."
 card:
   title: "Hello World"
-  description: "What is lembot and why"
+  description: "Discover the lembot identity card. What is lembot, the motivations behind it, why we decide to build lembot and the long term vision."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "👋"
 date: "2021-05-10"
@@ -23,11 +21,11 @@ tag: "blabla"
 
 Lembot is an online automation tool dedicated to [lemlist](https://lemlist.com).
 
-It automatically exports your Lemlist campaign results in your Google Sheets.
+It automatically exports your Lemlist campaign results and activities in your Google Sheets.
 
 Lembot aims to be your automation partner throughout your journey with Lemlist 🚀
 
-Lembot is not affialiated with lemlist.
+Last but not least, lembot is not affialiated with lemlist. Although we had the chance to speak with G. who knew about lembot and kindly love and respect the idea.
 
 ## Why
 
@@ -35,9 +33,9 @@ Lemlist is awesome but it must remain simple and user-friendly. That's why lemli
 
 This is where lembot comes in.
 
-## Let's build it together
+## Build lembot with us
 
-You, as a user, are my best inputs. Tell me what would improve your productivity and and let's build lembot together: submit a [feature request](https://lembot.com/feature-request).
+You, as a user, are out best inputs. Feel free to reach me at [francois@lembot.com](mailto:francois@lembot.com), by chat or [linkedin](https://www.linkedin.com/in/francoisrouault/) to help us improve your productivity and let's build lembot together.
 
 ## Who is behind
 

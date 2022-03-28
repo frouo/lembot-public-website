@@ -1,12 +1,10 @@
 ---
 head:
-  title: "Lembot • Remove the CSV header"
-  meta:
-    title: "How to remove the CSV header from your lemlist results"
-    description: "With lembot you can decide not to export the CSV header. Let me show you how and why"
+  title: "Remove the CSV header from your lemlist export - Lembot Blog"
+  description: "Discover how to remove the header of the CSV. As a result you get the data in your GSheet without the first line. Make disappear all column names."
 card:
   title: "Remove the CSV header"
-  description: "With lembot you can decide not to export the CSV header. Let me show you how and why"
+  description: "Discover how to remove the header of the CSV. As a result you get the data in your GSheet without the first line. Make disappear all column names."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2021-12-08"

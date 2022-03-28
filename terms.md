@@ -1,9 +1,7 @@
 ---
 head:
-  title: "Lembot • Terms and Conditions"
-  meta:
-    title: "Lembot • Terms and Conditions"
-    description: "Lembot's terms and conditions are easy because T&C do not have to be long and complex"
+  title: "Terms and Conditions - Lembot"
+  description: "Lembot's Terms and Conditions are easy to read and understand: monthly plan, cancel anytime, newsletter, unsubscribe link, etc."
 coverUrl: "https://images.unsplash.com/photo-1563207153-f403bf289096"
 emoji: "🗒️"
 date: "2021-10-18"
@@ -17,7 +15,7 @@ Just be nice.
 
 ## Us
 
-Lembot charges for access on monthly plans. You can cancel subscription anytime from your dashboard, no questions asked.
+Lembot charges for access on monthly plan. You can cancel subscription anytime from your dashboard, no questions asked.
 
 Lembot's service may change without prior notice. Changes could affect pricing, pricing policies, features and access restrictions.
 

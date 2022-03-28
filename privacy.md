@@ -1,9 +1,7 @@
 ---
 head:
-  title: "Lembot • Privacy Policy"
-  meta:
-    title: "Lembot • Privacy Policy"
-    description: "To make it short, lembot is GDPR compliant, only the necessary data is stored, servers and database are in the EU."
+  title: "Privacy Policy - Lembot is GDPR compliant based in the EU"
+  description: "Lembot treats your privacy seriously: GDPR compliant, servers and database in the EU. Your campaign results and activities are not stored on our servers."
 coverUrl: "https://c.pxhere.com/photos/f4/30/wall_e_robot_figure_toy_technology_movie_pixar_plastic-686056.jpg!d"
 emoji: "🔐"
 date: "2022-02-11"
@@ -17,9 +15,9 @@ This Privacy Policy was last updated on 18th February 2022.
 
 Lembot
 
-* is GDPR compliant
-* uses minimum personal data in order to run the service
-* does not store any data about your leads
+- is GDPR compliant
+- uses minimum personal data in order to run the service
+- does not store any data about your leads
 
 More details below 👇
 
@@ -27,7 +25,7 @@ More details below 👇
 
 Lembot.com will look after your data (email, name, account creation date) to resolve any questions addressed to the support.
 
-## Your personal data 
+## Your personal data
 
 As a lembot user, the only personal data lembot.com stores about you is your _first name_, _last name_, _company name_, _email address_.
 
@@ -51,7 +49,7 @@ Lembot automates the transfer from lemlist to Google Sheets: once the transfer i
 
 What is `lembot@lembot.iam.gserviceaccount.com`?
 
-Lembot needs write authorization to transfer your data in your Gsheet. To make your life easier, Lembot created what's called a [Google Service Account ↗️](https://cloud.google.com/iam/docs/service-accounts) you can share your GSheet with. 
+Lembot needs write authorization to transfer your data in your Gsheet. To make your life easier, Lembot created what's called a [Google Service Account ↗️](https://cloud.google.com/iam/docs/service-accounts) you can share your GSheet with.
 
 > A service account is a special kind of account used by an application (Editor's note: here lembot) rather than a person.
 

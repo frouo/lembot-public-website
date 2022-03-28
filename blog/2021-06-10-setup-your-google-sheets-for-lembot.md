@@ -1,12 +1,10 @@
 ---
 head:
-  title: "Lembot • Setup your google sheets for lembot"
-  meta:
-    title: "Setup your Google Sheets for lembot"
-    description: "Lembot app needs your explicit permission to write your lemlist campaign result into your sheet. Hopefully it's super easy and 100% secure"
+  title: "Setup your Google spreadsheet for lembot - Lembot Blog"
+  description: "Discover how to allow lembot to write the lemlist data into your spreadsheet. It's super easy, 100% secure and keeps your spreadsheet private."
 card:
-  title: "Setup your google sheets for lembot"
-  description: "Without your explicit permission, lembot cannot edit your Google Sheets. Hopefully it's a one-time super easy setup."
+  title: "Setup your Google spreadsheet for lembot"
+  description: "Discover how to allow lembot to write the lemlist data into your spreadsheet. It's super easy, 100% secure and keeps your spreadsheet private."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2021-06-10"

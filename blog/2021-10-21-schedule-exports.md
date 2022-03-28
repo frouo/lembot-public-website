@@ -1,12 +1,10 @@
 ---
 head:
-  title: "Lembot • Schedule exports"
-  meta:
-    title: "How to schedule automatic export of your lemlist campaign results"
-    description: "With lembot you can schedule exports to run daily, on weekdays, weekly or monthly. It's just one click."
+  title: "Schedule automatic export of your lemlist export - Lembot Blog"
+  description: "Discover how to schedule automatic exports of your lemlist data at the frequency of your choice: daily, on weekdays, weekly or monthly."
 card:
-  title: "Schedule exports"
-  description: "With lembot you can schedule your exports to run daily, on weekdays, weekly or monthly. Let me show you how."
+  title: "Schedule automatic export"
+  description: "Discover how to schedule automatic exports of your lemlist data at the frequency of your choice: daily, on weekdays, weekly or monthly."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2021-10-21"

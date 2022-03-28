@@ -1,12 +1,10 @@
 ---
 head:
-  title: "Lembot • Keep your lemlist export minimalist and consistent"
-  meta:
-    title: "Keep your lemlist export minimalist and consistent"
-    description: "Only export the data you care about by selecting which columns to export from lemlist. So your sheet stays minimalist and consistent"
+  title: "Keep your lemlist export minimalist and consistent - Lembot Blog"
+  description: "Discover how to export only the data you care about. Lembot allows you to re-shape the lemlist export so your sheet stays minimalist and consistent."
 card:
   title: "Keep your lemlist export minimalist and consistent"
-  description: "With lembot, only export the data you care about by selecting which columns to export from lemlist. So your sheet stays minimalist and consistent"
+  description: "Discover how to export only the data you care about. Lembot allows you to re-shape the lemlist export so your sheet stays minimalist and consistent."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2021-07-15"

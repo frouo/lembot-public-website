@@ -1,12 +1,10 @@
 ---
 head:
-  title: "Lembot • Add the campaign name in your export"
-  meta:
-    title: "How to add the campaign name to your lemlist export"
-    description: "Easier to organize your data when you know from which campaign it comes from. Add the campaign name to your lemlist export in 1-click"
+  title: "Add the campaign name in your lemlist export - Lembot Blog"
+  description: "Discover how to augment your lemlist export by adding the campaign name. As a result, the campaignName appears in front of every leads. Super helpful!"
 card:
   title: "Add the campaign name in your export"
-  description: "With lembot you can choose to add the campaign name in your export"
+  description: "Discover how to augment your lemlist export by adding the campaign name. As a result, the campaignName appears in front of every leads. Super helpful!"
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2021-12-06"

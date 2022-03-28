@@ -1,9 +1,7 @@
 ---
 head:
-  title: "Lembot • What's New"
-  meta:
-    title: "Lembot • What's New"
-    description: "Here are what's new in lembot. Stay tuned."
+  title: "What's New in Lembot | For Growth Hackers and Lemlisters"
+  description: "Discover what's new in lembot. We continously deliver new features based on lemlisters feedback. Follow our journey, we build in public."
 coverUrl: "https://images.unsplash.com/photo-1634912314602-0d01437e3540"
 emoji: "🤙"
 date: "2022-01-20"
@@ -105,7 +103,7 @@ You can now edit any parameters of your bots.
 
 ## Oct 19, 2021
 
-Lembot now supports scheduling 🎉 
+Lembot now supports scheduling 🎉
 
 Meaning that you can schedule export daily, weekly or monthly at the exact hour and minute you want.
 
