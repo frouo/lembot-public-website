@@ -15,6 +15,18 @@ Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@le
 
 ---
 
+## March 24, 2022
+
+Export campaign **activities**. All of them.
+
+Every single event that occurs in lemlist is now available to export: emails sent, opened, clicked, etc. with the date of the interaction, the lead and sender data, the clicked URL.
+
+Everything is now available.
+
+Exclusively on lembot.
+
+![export activities bot](https://user-images.githubusercontent.com/2499356/163671803-e3651137-488e-48be-bb97-cdf245c4b1c7.jpg)
+
 ## Jan 20, 2022
 
 Let me introduce you to **megabots**.
