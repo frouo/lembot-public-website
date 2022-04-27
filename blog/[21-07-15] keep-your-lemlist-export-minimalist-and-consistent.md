@@ -19,7 +19,17 @@ tag: "how to"
 
 With lembot, you can choose between extracting all the CSV or only a set of columns.
 
-## Why should I select columns?
+<img width="500px" src="https://user-images.githubusercontent.com/2499356/165461298-1944ed5e-b4c5-43bf-b672-3a734df60afd.jpg" alt="lembot extract mode" />
+
+## Extract all
+
+When choosing "All columns", lembot will import in your GSheet the lemlist CSV report **as is**. No more no less.
+
+The end result is the same as if you had done the export and import manually.
+
+## Or, choose your outputs
+
+Why should I select columns?
 
 This has 2 major advantages:
 
@@ -28,45 +38,43 @@ This has 2 major advantages:
 
 When you select columns, the export stay consistent over time. So does your formula 😉
 
-## Video
+There is two ways to choose your output: select columns or write columns.
 
-![demo select outputs](https://user-images.githubusercontent.com/2499356/151677420-57011d17-11bd-4047-95b2-0879a3afb883.mp4)
+### Select columns
 
-## How To
+While creating or editing a bot, click "Select columns".
+ 
+Lembot will automatically detect your campaign CSV header and displays them in a table.
 
-### Step 1
+Once detected you can select which columns to extract, then click Continue to confirm your selection and finalize your bot.
 
-While creating or editing a bot, click "Select Columns".
+<img width="500px" src="https://user-images.githubusercontent.com/2499356/151677443-7fd360fd-0c5c-4129-9297-6dd5703d969a.jpg" alt="Choose_outputs_from_table" />
 
-![1 Choose_outputs_options](https://user-images.githubusercontent.com/2499356/151677434-0e35d09a-8d8c-4407-b92d-3798402a7105.jpg)
+### Write columns
 
-### Step 2
+This is a bit more advanced, yet very powerful feature. It lets you shape exactly your final output in your GSheet.
 
-The columns in the CSV are automatically detected and displayed in a table.
+While creating or editing a bot, click "Write columns".
 
-Choose the columns you want to extract.
+Start typing and see the column preview update automatically.
 
-> 💡 Tip: use your keyboard to navigate easier in the table.
+<img width="500px" src="https://user-images.githubusercontent.com/2499356/165458078-9abdf977-abbe-43d5-814b-76e2f17c179f.png" alt="lembot write columns" />
 
-Click "Continue" to confirm your selection.
+### Edit your selection at any moment
 
-![2 Choose_outputs_from_table](https://user-images.githubusercontent.com/2499356/151677443-7fd360fd-0c5c-4129-9297-6dd5703d969a.jpg)
+Note that you can edit your extract mode (all columns, select columns, or write columns) and your columns selection at any moment.
 
-### Step 3
-
-Visualize your selection.
-
-Click one of the input to edit your selection.
-
-![3 Choose_outputs_visualize_selection](https://user-images.githubusercontent.com/2499356/151677448-7eefdf8a-d83d-47c9-82e7-e070c64ee460.jpg)
-
-### That's it 🎉
+## Run export 🎉
 
 Click "Run export" to only export the selected variables to your Google Sheets.
 
-![4 Choose_outputs_done](https://user-images.githubusercontent.com/2499356/151677451-2ab9b26e-21a9-4f70-aa15-ee573caa2300.jpg)
+![choose_outputs_done](https://user-images.githubusercontent.com/2499356/151677451-2ab9b26e-21a9-4f70-aa15-ee573caa2300.jpg)
 
 As you can see on the right, the sheet has only 4 columns as requested: `email`, `sentStep`, `sentAt` and `interestedAt`.
+
+## Demo
+
+![demo select outputs](https://user-images.githubusercontent.com/2499356/151677420-57011d17-11bd-4047-95b2-0879a3afb883.mp4)
 
 ---
 
