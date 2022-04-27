@@ -19,7 +19,7 @@ tag: "how to"
 
 With lembot, you can choose between extracting all the CSV or only a set of columns.
 
-<img width="500px" src="https://user-images.githubusercontent.com/2499356/165461298-1944ed5e-b4c5-43bf-b672-3a734df60afd.jpg" alt="lembot extract mode" />
+![lembot extract mode options](https://user-images.githubusercontent.com/2499356/165461298-1944ed5e-b4c5-43bf-b672-3a734df60afd.jpg)
 
 ## Extract all
 
@@ -48,7 +48,7 @@ Lembot will automatically detect your campaign CSV header and displays them in a
 
 Once detected you can select which columns to extract, then click Continue to confirm your selection and finalize your bot.
 
-<img width="500px" src="https://user-images.githubusercontent.com/2499356/151677443-7fd360fd-0c5c-4129-9297-6dd5703d969a.jpg" alt="Choose_outputs_from_table" />
+![select columns](https://user-images.githubusercontent.com/2499356/151677443-7fd360fd-0c5c-4129-9297-6dd5703d969a.jpg)
 
 ### Write columns
 
@@ -58,7 +58,7 @@ While creating or editing a bot, click "Write columns".
 
 Start typing and see the column preview update automatically.
 
-<img width="500px" src="https://user-images.githubusercontent.com/2499356/165458078-9abdf977-abbe-43d5-814b-76e2f17c179f.png" alt="lembot write columns" />
+![write columns](https://user-images.githubusercontent.com/2499356/165496834-70d8807c-202a-43e6-a1d4-0470e8a01d05.jpg)
 
 ### Edit your selection at any moment
 
