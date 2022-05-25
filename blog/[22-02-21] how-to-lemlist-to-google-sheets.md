@@ -17,7 +17,7 @@ tag: "how to"
 
 # How to Lemlist to Google Sheets
 
-If you want to analyze the **results of your campaigns** more deeply, you would probably want to import them into Google Sheets.
+If you want to analyze the **results** of your campaigns more deeply, you would probably want to import them into Google Sheets.
 
 Here is how to do it.
 
@@ -42,9 +42,9 @@ Once setup you can run your automation in 1 click, or automatically if you sched
 
 ![example of a scheduled automation](https://user-images.githubusercontent.com/2499356/160924795-b1514837-7d27-431a-b2b4-360806853a18.jpg)
 
-## The hard way
+## Without lembot
 
-Do it all by hand. 
+Choose the only way, the hard way: do it all by hand.
 
 Without lembot things get harder. Here are the steps you need to follow to achieve the same result, all by hand, again, again and all over again every time you want fresh data or change campaigns:
 
@@ -68,12 +68,13 @@ Lembot automates all this for you so you can focus on your business.
 
 [I prefer the easy way, let's try lembot ↗️](https://lembot.com/signup)
 
-## Do more with lembot
+## Win 4 hours a week with lembot
 
 And you can do a lot more with lembot:
 
 - export campaign results
 - export campaign activities: email opened, sent, link clicked, etc... with dates
+- export campaign leads
 - schedule your export every days / weekdays / weeks / months, see [how to](https://lembot.com/blog/schedule-exports)
 - bulk export your lemlist campaigns, see [how to](https://lembot.com/blog/bulk-export-your-lemlist-campaigns)
 - choose which columns to export, see [how to](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent)
