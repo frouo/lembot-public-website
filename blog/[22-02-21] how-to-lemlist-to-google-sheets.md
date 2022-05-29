@@ -44,9 +44,9 @@ Once setup you can run your automation in 1 click, or automatically if you sched
 
 ## Without lembot
 
-Choose the only way, the hard way: do it all by hand.
+Without lembot, the only way is to do it the hard way: all by hand.
 
-Without lembot things get harder. Here are the steps you need to follow to achieve the same result, all by hand, again, again and all over again every time you want fresh data or change campaigns:
+Without lembot, here are the steps you need to follow to achieve the same result, all by hand, again and again every time you want to refresh your data:
 
 - open your lemlist dashboard
 - find and click on your campaign
