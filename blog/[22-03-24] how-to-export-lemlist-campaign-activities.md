@@ -1,6 +1,6 @@
 ---
 head:
-  title: "How to connect Lemlist to Google Sheets - Lembot Blog"
+  title: "How to export lemlist activities - Lembot Blog"
   description: "Discover how to export your lemlist campaign activities: event types (sent, opened, clicked...), the date of the interaction, the lead, sender, clicked URL..."
 card:
   title: "Export your lemlist campaign activities"

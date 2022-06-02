@@ -19,6 +19,8 @@ tag: "knowledge"
 
 ## Reports
 
+Also called campaign results.
+
 Lemlist campaign report gives you an overview of your campaign performance.
 
 Report displays both positive and negative metrics for each buddy (lead email, custom vars, date and time email was sent, bounced, replied, opened etc.)
