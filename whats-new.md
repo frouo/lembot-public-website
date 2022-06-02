@@ -15,9 +15,15 @@ Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@le
 
 ---
 
+## Jun 2, 2022
+
+Export lemlist leads: custom variables, email, firstName, lastName, etc.
+
+![export leads spotlight](https://user-images.githubusercontent.com/2499356/171725430-bf1e5336-ab0c-444a-b984-de02bc4664bd.jpg)
+
 ## March 24, 2022
 
-Export campaign **activities**. All of them.
+Export lemlist **activities**. All of them.
 
 Every single event that occurs in lemlist is now available to export: emails sent, opened, clicked, etc. with the date of the interaction, the lead and sender data, the clicked URL.
 
