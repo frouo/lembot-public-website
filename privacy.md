@@ -1,7 +1,7 @@
 ---
 head:
   title: "Privacy Policy - Lembot is GDPR compliant based in the EU"
-  description: "Lembot treats your privacy seriously: GDPR compliant, servers and database in the EU. Your campaign results and activities are not stored on our servers."
+  description: "Lembot treats your privacy seriously: GDPR compliant, servers and database in the EU. Your lemlist reports, activities and leads are not stored on our servers."
 coverUrl: "https://c.pxhere.com/photos/f4/30/wall_e_robot_figure_toy_technology_movie_pixar_plastic-686056.jpg!d"
 emoji: "🔐"
 date: "2022-02-11"

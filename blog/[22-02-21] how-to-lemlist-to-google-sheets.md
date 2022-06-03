@@ -23,7 +23,7 @@ Here is how to do it.
 
 ## The easy way with lembot
 
-Lembot automates the export of your lemlist campaign results (or activities) to your GSheet.
+Lembot automates the export of your lemlist campaign data (reports, activities, and leads) to your GSheet.
 
 Follow the step-by-step guide to create your automation:
 
@@ -70,7 +70,7 @@ Lembot automates all this for you so you can focus on your business.
 
 And you can do a lot more with lembot:
 
-- export campaign results
+- export campaign reports
 - export campaign activities: email opened, sent, link clicked, etc... with dates
 - export campaign leads
 - schedule your export every days / weekdays / weeks / months, see [how to](https://lembot.com/blog/schedule-exports)

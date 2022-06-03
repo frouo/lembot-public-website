@@ -23,7 +23,7 @@ Let me introduce you to lembot.
 
 Lembot is an online automation tool dedicated to [lemlist](https://lemlist.com).
 
-It automatically exports your Lemlist campaign results and activities in your Google Sheets.
+Lembot automatically exports your Lemlist data (reports, activities, leads) into your Google Sheets.
 
 Lembot aims to be your automation partner throughout your journey with Lemlist 🚀
 
