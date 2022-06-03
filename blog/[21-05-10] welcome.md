@@ -27,25 +27,31 @@ It automatically exports your Lemlist campaign results and activities in your Go
 
 Lembot aims to be your automation partner throughout your journey with Lemlist 🚀
 
-Last but not least, lembot is not affialiated with lemlist. Although we had the chance to speak with G. who knew about lembot and kindly love and respect the idea.
+Last but not least, lembot is not affialiated with lemlist. Although we had the chance to speak with G. who heard about lembot and kindly love and respect the idea.
 
 ## Why
 
-Lemlist is awesome but it must remain simple and user-friendly. That's why lemlist can't do everything. Some features may be missing.
+Exporting CSV files by hand is time consuming and error-prone.
 
-This is where lembot comes in.
+Lemlist reporting is great, but can't be customized. By exporting your data into Google Sheets, you can build the reporting of your dreams. There is no limit.
 
-## Build lembot with us
+## Based on your feedback
 
-You, as a user, are out best inputs. Feel free to reach me at [francois@lembot.com](mailto:francois@lembot.com), by chat or [linkedin](https://www.linkedin.com/in/francoisrouault/) to help us improve your productivity and let's build lembot together.
+We are regularly adding new features based on your feedback and our own ideas.
+
+New features are announced in the newsletter and listed [here ↗️](https://lembot.com/whats-new)
+
+Feel free to reach us at [francois@lembot.com](mailto:francois@lembot.com), or by chat (cf. bottom-right bubble) or [linkedin](https://www.linkedin.com/in/francoisrouault/) if you have any questions or suggestions.
 
 ## Who is behind
 
-Hello, I am François, the maker of [lembot.com](https://lembot.com) 👋 and fan of the lemlist's team, tools and growth.
+I am François, the maker of [lembot.com](https://lembot.com) 👋 and fan of the lemlist's team, tools and growth.
+
+I am a lemlister like you and build lembot to boost my productivity.
 
 ## Lembot's date of birth
 
-Lembot has been officially announced on Twitter on May 4th.
+Lembot has been officially announced on Twitter on May 4th 2021.
 
 The [tweet ↗️](https://twitter.com/frouo/status/1389473114061512711)
 

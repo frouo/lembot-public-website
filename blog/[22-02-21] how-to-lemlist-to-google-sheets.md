@@ -17,13 +17,11 @@ tag: "how to"
 
 # How to Lemlist to Google Sheets
 
-If you want to analyze the **results** of your campaigns more deeply, you would probably want to import them into Google Sheets.
+If you want to analyze the results of your campaigns more deeply, you would probably want to import them into Google Sheets.
 
 Here is how to do it.
 
-## The easy way
-
-Use lembot 💪
+## The easy way with lembot
 
 Lembot automates the export of your lemlist campaign results (or activities) to your GSheet.
 
@@ -31,7 +29,7 @@ Follow the step-by-step guide to create your automation:
 
 - **step 1**: paste your lemlist API key. At this point lembot automatically presents your campaigns so you can select the one you want to import in Google Sheets.
 - **step 2**: paste your gsheet URL. At this point lembot automatically presents your spreadsheet's sheets so you can select where you want to import your campaign data.
-- optionally, select which columns to import, schedule automatic export, etc.
+- optionally, select which columns to import ([see how ↗️](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent)), schedule automatic export ([see how ↗️](https://lembot.com/blog/schedule-exports)), etc.
 - click **Save** and / or **Run Export**
 
 That's it 🤩
@@ -83,7 +81,7 @@ And you can do a lot more with lembot:
 
 ## GDPR compliant
 
-Your privacy is taken seriously at lembot. 
+Your privacy is taken seriously at lembot.
 
 We are GDPR compliant, our servers are in the EU and we store only the minimal amount of data to run the service.
 

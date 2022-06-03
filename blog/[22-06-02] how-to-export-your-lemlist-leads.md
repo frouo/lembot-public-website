@@ -24,8 +24,8 @@ Here is how:
 1. create a new bot
 2. select the data you want to extract from lemlist: "**leads**"
 3. follow the steps: choose your lemlist team, campaign, google spreadsheet and destination sheet
-4. _eventually, re-arrange your data_
-5. _eventually, schedule automatic daily export (paying feature)_
+4. _eventually, re-arrange your data_ ([see how ↗️](https://lembot.com/blog/keep-your-lemlist-export-minimalist-and-consistent))
+5. _eventually, schedule automatic daily export_ ([see how ↗️](https://lembot.com/blog/schedule-exports))
 6. save
 
 Your automation is ready. That simple 💪
