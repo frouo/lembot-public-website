@@ -1,9 +1,9 @@
 ---
 head:
-  title: "Hello World - Lembot Blog"
+  title: "Welcome - Lembot Blog"
   description: "Discover the lembot identity card. What is lembot, the motivations behind it, why we decide to build lembot and the long term vision."
 card:
-  title: "Hello World"
+  title: "Welcome"
   description: "Discover the lembot identity card. What is lembot, the motivations behind it, why we decide to build lembot and the long term vision."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "👋"
@@ -12,10 +12,12 @@ author:
   name: "François Rouault"
   imageUrl: "https://lh3.googleusercontent.com/ogw/ADea4I7LJjF5U_yHFaLQIoNCysLkiEHPLHnWKxj0i1SadVY=s32-c-mo"
   href: "https://www.linkedin.com/in/francoisrouault/"
-tag: "vision"
+tag: "intro"
 ---
 
-# Hello world
+# Welcome
+
+Let me introduce you to lembot.
 
 ## What is lembot
 
@@ -39,7 +41,7 @@ You, as a user, are out best inputs. Feel free to reach me at [francois@lembot.c
 
 ## Who is behind
 
-Hello, I am François, the developer of [lembot.com](https://lembot.com) 👋 and fan of the lemlist's team, tools and growth.
+Hello, I am François, the maker of [lembot.com](https://lembot.com) 👋 and fan of the lemlist's team, tools and growth.
 
 ## Lembot's date of birth
 
