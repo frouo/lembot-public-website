@@ -1,10 +1,10 @@
 ---
 head:
-  title: "Bulk export your lemlist campaigns - Lembot Blog"
-  description: "Discover how to export several campaigns into the same gsheet, one below the other, with automatic and smart columns matching."
+  title: "Bulk export your lemlist reports - Lembot Blog"
+  description: "Discover how to export several campaign reports into one sheet. All your reports, one below the other with automatic and smart columns matching."
 card:
-  title: "Bulk export your lemlist campaigns"
-  description: "Discover how to export several campaigns into the same gsheet, one below the other, with automatic and smart columns matching."
+  title: "Bulk export your lemlist reports"
+  description: "Discover how to export several campaign reports into one sheet. All your reports, one below the other with automatic and smart columns matching."
 coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
 emoji: "🎓"
 date: "2022-01-20"
@@ -15,40 +15,38 @@ author:
 tag: "how to"
 ---
 
-# Bulk lemlist campaign exports
+# Bulk export campaign reports
 
-Picture this, you have 26 campaigns, with different variables:
+Picture this, you have 26 campaigns that you want to export all at once in one single sheet:
 
 - **Campaign A**
 - **Campaign B**
 - ⬇️
 - **Campaign Z**
 
-... that you want to export all at once in one single sheet, with columns matching of course!
+Lembot allows you to automates this in just a few clicks.
 
-This would be a nightmare by hand right? 🤯
+It's super easy, it's super powerful, it's called **megabot** ✌️
 
-Using lembot, it's super easy ✌️
+## Create megabot
 
-There is a feature designed just for that, it's called **megabot**.
+Here is how to create a megabot:
 
-## Demo
+1. In your dashboard, click "Create a Megabot" button
+2. Go through the 5 steps configuration guide
+3. Click "Save"
 
-![demo megabot in action](https://user-images.githubusercontent.com/2499356/151619169-61db8931-d5f9-4808-8a52-28b4e7644629.mp4)
+And that's it!
 
-## How To Create A Megabot
-
-In your dashboard, click "Create a Megabot" button
-
-Go through the 5 steps configuration guide
-
-Click "Save"
-
-And that's it !
-
-Schedule or run as many mega export as you need.
+You can choose to schedule your megabots so you don't even have to click the button "Run Megabot".
 
 ![how to create a megabot](https://user-images.githubusercontent.com/2499356/151677870-bdcc60a0-c37c-4780-99e2-ff0012b789a0.mp4)
+
+## See it in action
+
+In this video, you can see that the megabot is exporting the campaign "Nouvelle campagne Maxime (CGP)", followed by the campaign "Nouvelle campagne Sihem".
+
+![demo megabot in action](https://user-images.githubusercontent.com/2499356/151619169-61db8931-d5f9-4808-8a52-28b4e7644629.mp4)
 
 ---
 
