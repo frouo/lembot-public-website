@@ -15,6 +15,14 @@ Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@le
 
 ---
 
+## Dec 22, 2022
+
+Introducing the [FAQ](https://lembot.com/faq) 🎉
+
+1.5 years later, why so long?
+
+I'm proud that Lembot's support has been low from the start. Which means that lembot is easy to use. However the questions that come to me are always the same, so it's time for a FAQ :)
+
 ## Jun 2, 2022
 
 Export lemlist leads: custom variables, email, firstName, lastName, etc.
