@@ -5,7 +5,7 @@ head:
 card:
   title: "Welcome"
   description: "Discover the lembot identity card. What is lembot, the motivations behind it, why we decide to build lembot and the long term vision."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "👋"
 date: "2021-05-10"
 author:
@@ -27,7 +27,7 @@ Lembot automatically exports your Lemlist data (reports, activities, leads) into
 
 Lembot aims to be your automation partner throughout your journey with Lemlist 🚀
 
-Last but not least, lembot is not affialiated with lemlist. Although we had the chance to speak with G. who heard about lembot and kindly love and respect the idea.
+Last but not least, lembot is not affialiated with lemlist. That said, I had the chance to meet G. who loves the idea and wishes the best for the project.
 
 ## Why
 

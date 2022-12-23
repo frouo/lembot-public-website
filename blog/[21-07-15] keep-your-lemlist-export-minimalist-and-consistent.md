@@ -5,7 +5,7 @@ head:
 card:
   title: "Keep your lemlist export minimalist and consistent"
   description: "Discover how to export only the data you care about. Lembot allows you to re-shape the lemlist export so your sheet stays minimalist and consistent."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2021-07-15"
 author:
@@ -43,7 +43,7 @@ There is two ways to choose your output: select columns or write columns.
 ### Select columns
 
 While creating or editing a bot, click "Select columns".
- 
+
 Lembot will automatically detect your campaign CSV header and displays them in a table.
 
 Once detected you can select which columns to extract, then click Continue to confirm your selection and finalize your bot.

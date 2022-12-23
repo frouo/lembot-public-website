@@ -5,7 +5,7 @@ head:
 card:
   title: "Add the campaign name in your export"
   description: "Discover how to augment your lemlist export by adding the campaign name. As a result, the campaignName appears in front of every leads. Super helpful!"
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2021-12-06"
 author:

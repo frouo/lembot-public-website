@@ -5,7 +5,7 @@ head:
 card:
   title: "What differences between lemlist reports and activities"
   description: "Let's clarify the difference between lemlist campaign report and activities"
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "👌"
 date: "2022-04-27"
 author:

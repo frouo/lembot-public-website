@@ -5,7 +5,7 @@ head:
 card:
   title: "Remove the CSV header"
   description: "Discover how to remove the header of the CSV. As a result you get the data in your GSheet without the first line. Make disappear all column names."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2021-12-08"
 author:

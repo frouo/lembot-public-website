@@ -2,7 +2,7 @@
 head:
   title: "What's New in Lembot | For Growth Hackers and Lemlisters"
   description: "Discover what's new in lembot. We continously deliver new features based on lemlisters feedback. Follow our journey, we build in public."
-coverUrl: "https://images.unsplash.com/photo-1634912314602-0d01437e3540"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209326570-ae7d6389-6546-464c-a2c8-4fc419252845.jpeg"
 emoji: "🤙"
 date: "2022-01-20"
 ---

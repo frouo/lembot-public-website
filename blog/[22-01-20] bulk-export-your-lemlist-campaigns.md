@@ -5,7 +5,7 @@ head:
 card:
   title: "Bulk export your lemlist reports"
   description: "Discover how to export several campaign reports into one sheet. All your reports, one below the other with automatic and smart columns matching."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2022-01-20"
 author:

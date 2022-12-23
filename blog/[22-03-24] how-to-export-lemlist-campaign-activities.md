@@ -5,7 +5,7 @@ head:
 card:
   title: "Export your lemlist campaign activities"
   description: "Discover how to export your lemlist campaign activities: event types like sent, opened, clicked, interested, with the exact date and time of the interaction, the lead, sender, clicked URL, everything."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2022-03-24"
 author:

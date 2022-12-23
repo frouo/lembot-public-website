@@ -5,7 +5,7 @@ head:
 card:
   title: "Setup your Google spreadsheet for lembot"
   description: "Discover how to allow lembot to write the lemlist data into your spreadsheet. It's super easy, 100% secure and keeps your spreadsheet private."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2021-06-10"
 author:

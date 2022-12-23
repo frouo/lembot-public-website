@@ -5,7 +5,7 @@ head:
 card:
   title: "How to connect Lemlist to Google Sheets"
   description: "Discover lembot, the best Lemlist to Google Sheets integration. A no code tool made by lemlisters for lemlisters."
-coverUrl: "https://images.unsplash.com/photo-1550432163-9cb326104944"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2022-02-21"
 author:

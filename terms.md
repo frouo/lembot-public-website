@@ -2,7 +2,7 @@
 head:
   title: "Terms and Conditions - Lembot"
   description: "Lembot's Terms and Conditions are easy to read and understand: monthly plan, cancel anytime, newsletter, unsubscribe link, etc."
-coverUrl: "https://images.unsplash.com/photo-1563207153-f403bf289096"
+coverUrl: "https://user-images.githubusercontent.com/2499356/209326177-cb9957fc-95e9-4342-bc73-999d98e0bebf.jpeg"
 emoji: "🗒️"
 date: "2021-10-18"
 ---
