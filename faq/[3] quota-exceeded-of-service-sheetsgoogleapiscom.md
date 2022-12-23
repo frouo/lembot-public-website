@@ -21,7 +21,7 @@ tag: "error"
 
 The Google API limits the number of read and write operations per minute per user.
 
-You are very likely to reach the limit with automation that runs at the very same moment, in other words **scheduled at the same time**.
+You are very likely to reach that limit with automation, especially when automations trigger all at once at the very same time. Which happens if you have never changed the default schedule time (7:30am) when you create a bot or a megabot.
 
 > Google API is used by millions of sites. We put limits and quotas on API requests to protect the system from receiving more data than it can handle, and to ensure an equitable distribution of the system resources. The limits and quotas are subject to change.
 
