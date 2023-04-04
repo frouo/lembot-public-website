@@ -15,6 +15,16 @@ Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@le
 
 ---
 
+## April 4, 2023
+
+Convert Lemlist dates into a format that is compatible with Google Sheets, enabling easier and more accurate data management and analysis.
+
+No more `2021-05-10T08:07:36.526Z` in your sheets, but this instead:
+
+![google sheets date](https://user-images.githubusercontent.com/2499356/229836893-3e1ebb62-3a88-4eb8-b067-348148d8157e.png)
+
+---
+
 ## Dec 22, 2022
 
 Introducing the [FAQ](https://lembot.com/faq) 🎉
