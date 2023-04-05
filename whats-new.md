@@ -17,9 +17,11 @@ Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@le
 
 ## April 4, 2023
 
-Convert Lemlist dates into a format that is compatible with Google Sheets, enabling easier and more accurate data management and analysis.
+- Option to add LemList groups (ex. labels) as a column, keeping all your campaign information in one place for simpler tracking and management:
 
-No more `2021-05-10T08:07:36.526Z` in your sheets, but this instead:
+![export lemlist groups](https://user-images.githubusercontent.com/2499356/230055689-ec8c7f15-ee15-4252-9a38-91488c89810f.jpg)
+
+- Convert Lemlist dates into a format that is compatible with Google Sheets, enabling easier and more accurate data management and analysis. No more `2021-05-10T08:07:36.526Z` in your sheets, but this instead:
 
 ![google sheets date](https://user-images.githubusercontent.com/2499356/229836893-3e1ebb62-3a88-4eb8-b067-348148d8157e.png)
 
