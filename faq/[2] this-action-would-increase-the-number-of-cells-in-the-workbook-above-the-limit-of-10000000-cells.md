@@ -36,11 +36,11 @@ Here are some ways to avoid this error:
 - Move sheet in another spreadsheet
 - Reduce the number of campaigns in your megabot
 
-## Pay attention, 10000000 cells per spreadsheet (not sheet)
+## Pay attention: it's 10.000.000 cells per spreadsheet, not per sheet!
 
 A Google spreadsheet is made of multiple sheets.
 
-The limitation applies to the spreadsheet, to the sum of the cells of its sheets.
+The limitation applies to the spreadsheet, in other words to the sum of the cells of its sheets.
 
 ![spreadsheet and its sheets](https://user-images.githubusercontent.com/2499356/209376677-4fabb247-8cd7-4bcd-b871-26b745420517.jpg)
 
