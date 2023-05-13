@@ -1,6 +1,6 @@
 ---
 head:
-  title: 'How to fix the "limit of 10000000 cells" error - Lembot FAQ'
+  title: 'How to fix the "limit of 10000000 cells" error - Lembot Blog'
   description: "The Google Sheets API limits the number of cells per spreadsheet. The limit is set at 10 million cells per spreadsheet."
 card:
   title: "Google API error - This action would increase the number of cells in the workbook above the limit of 10000000 cells"
@@ -12,7 +12,7 @@ author:
   name: "François Rouault"
   imageUrl: "https://lh3.googleusercontent.com/ogw/ADea4I7LJjF5U_yHFaLQIoNCysLkiEHPLHnWKxj0i1SadVY=s32-c-mo"
   href: "https://www.linkedin.com/in/francoisrouault/"
-tag: "error"
+tag: "help center"
 ---
 
 # Google API error - [400] Invalid requests[0].pasteData: This action would increase the number of cells in the workbook above the limit of 10000000 cells.

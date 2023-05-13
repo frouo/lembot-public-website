@@ -27,13 +27,13 @@ Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@le
 
 ---
 
-## Dec 22, 2022
+## Dec 22, 2023
 
-Introducing the [FAQ](https://lembot.com/faq) 🎉
+No news in a year and a half?!
 
-1.5 years later, why so long?
+Well, I'm delighted to report that Lembot's user-friendly design has meant that support has been minimal. Nevertheless, I have noticed that users often have similar questions. That's why I have been working on a new set of "help center" articles to enrich our Blog page. I am confident that this new resource will be a great help to many of you.
 
-I'm proud that Lembot's support has been low from the start. Which means that lembot is easy to use. However the questions that come to me are always the same, so it's time for a FAQ :)
+Cheers
 
 ## Jun 2, 2022
 

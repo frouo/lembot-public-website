@@ -1,6 +1,6 @@
 ---
 head:
-  title: 'How to fix the "[429] Quota exceeded" error - Lembot FAQ'
+  title: 'How to fix the "[429] Quota exceeded" error - Lembot Blog'
   description: "The Google API limits the number of read and write operations per minute per user in order to protect the service"
 card:
   title: "Google API error - Quota exceeded for quota metric 'Read/Write requests' and limit 'Read/Write requests per minute per user' of service 'sheets.googleapis.com'"
@@ -12,7 +12,7 @@ author:
   name: "François Rouault"
   imageUrl: "https://lh3.googleusercontent.com/ogw/ADea4I7LJjF5U_yHFaLQIoNCysLkiEHPLHnWKxj0i1SadVY=s32-c-mo"
   href: "https://www.linkedin.com/in/francoisrouault/"
-tag: "error"
+tag: "help center"
 ---
 
 # Google API error - [429] Quota exceeded of service 'sheets.googleapis.com'

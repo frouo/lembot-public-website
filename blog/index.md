@@ -9,6 +9,6 @@ date: "2022-01-26"
 
 # Blog
 
-Get to know the features of lembot, challenges encountered, how-to and much more.
+Get to know the features of lembot, how-to, tips, help and much more.
 
 ---

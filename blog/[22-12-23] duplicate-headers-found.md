@@ -1,6 +1,6 @@
 ---
 head:
-  title: 'How to fix the "Duplicate headers found" error - Lembot FAQ'
+  title: 'How to fix the "Duplicate headers found" error - Lembot Blog'
   description: "Lembot found a duplicate in your custom variables. Open your campaign in the lemlist dashboard, review your custom variables and delete the duplicate."
 card:
   title: "Duplicate headers found"
@@ -12,7 +12,7 @@ author:
   name: "François Rouault"
   imageUrl: "https://lh3.googleusercontent.com/ogw/ADea4I7LJjF5U_yHFaLQIoNCysLkiEHPLHnWKxj0i1SadVY=s32-c-mo"
   href: "https://www.linkedin.com/in/francoisrouault/"
-tag: "error"
+tag: "help center"
 ---
 
 # Duplicate headers found
