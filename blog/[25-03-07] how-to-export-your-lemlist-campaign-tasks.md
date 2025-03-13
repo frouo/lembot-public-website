@@ -1,9 +1,9 @@
 ---
 head:
-  title: "How to export your lemlist tasks to gsheet - Lembot Blog"
+  title: "How to export your lemlist campaign tasks to gsheet - Lembot Blog"
   description: "Discover how to export your lemlist campaign tasks into your Google Sheets spreadsheet."
 card:
-  title: "Export your lemlist tasks"
+  title: "Export your lemlist campaign tasks"
   description: "Discover how to export your lemlist campaign tasks into your Google Sheets spreadsheet."
 coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
@@ -16,7 +16,7 @@ author:
 tag: "how to"
 ---
 
-# Export your lemlist tasks
+# Export your lemlist campaign tasks
 
 Lembot now lets you automatically export your campaign tasks into your GSheet.
 
@@ -31,7 +31,7 @@ Here is how:
 
 Your automation is ready. That simple 💪
 
-Now, whenever you need to export your Lemlist tasks in Google Sheets, just click "**Run Bot**". Or schedule **automatic daily export**.
+Now, whenever you need to export your campaign tasks in Google Sheets, just click "**Run Bot**". Or schedule **automatic daily export**.
 
 [Try it, for free ↗️](https://lembot.com/signup)
 
