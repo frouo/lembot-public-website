@@ -15,9 +15,9 @@ author:
 tag: "help center"
 ---
 
-# Google API error - [400] Invalid requests[0].pasteData: This action would increase the number of cells in the workbook above the limit of 10000000 cells.
+# Google API error - [400] Invalid requests[0].pasteData: This action would increase the number of cells in the workbook above the limit of 10 000 000 cells.
 
-![Google Sheets limit of 10000000 cells](https://user-images.githubusercontent.com/2499356/209356372-4f453aba-b3d0-4b6b-a3d8-2036481ad23e.jpg)
+![Google Sheets limit of 10 000 000 cells](https://user-images.githubusercontent.com/2499356/209356372-4f453aba-b3d0-4b6b-a3d8-2036481ad23e.jpg)
 
 ## Why this error?
 
