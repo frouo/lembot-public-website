@@ -13,6 +13,15 @@ All new updates and improvements to lembot.
 
 Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@lembot.com) me.
 
+## Jun 4, 2025
+
+Megabot now supports new campaigns selection mode:
+
+- "All campaigns" mode: export every campaign in one go, no manual selection needed.
+- "By tag" mode: pick one or more tags and Lembot will automatically include any campaign with those tags (including new ones) on each run.
+
+---
+
 ## March 7, 2025
 
 Now you can export your campaign tasks! :)

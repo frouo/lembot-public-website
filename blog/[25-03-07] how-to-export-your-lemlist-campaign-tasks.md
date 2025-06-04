@@ -13,7 +13,7 @@ author:
   name: "François Rouault"
   imageUrl: "https://lh3.googleusercontent.com/ogw/ADea4I7LJjF5U_yHFaLQIoNCysLkiEHPLHnWKxj0i1SadVY=s32-c-mo"
   href: "https://www.linkedin.com/in/francoisrouault/"
-tag: "how to"
+tag: "how-to"
 ---
 
 # Export your lemlist campaign tasks
