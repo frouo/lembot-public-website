@@ -37,7 +37,7 @@ Looking for a way to **export Lemlist reports by tag** or simply **export all Le
 3. On the **Campaign selection** step, pick **"By tag"** mode.
 4. Select one or more tags:
 
-   ![megabot by tag](https://github.com/user-attachments/assets/fbb7921c-6a64-4c56-92eb-be1c69b89e8a)
+   ![megabot by tag](https://github.com/user-attachments/assets/99e536ee-f725-4b3d-9f44-0eface77c22f)
    _Selecting "Head Of" and "VIP" tags to export Lemlist reports by tag._
 
 5. Click **Continue**, **Save**, then **Run Bot** or schedule your weekly export.
