@@ -26,7 +26,7 @@ Looking for a way to **export Lemlist reports by tag** or simply **export all Le
 
 - **Dynamic dashboards**: Only include campaigns tagged "LinkedIn" or "Q3-2025" so new campaigns flow in automatically.
 - **Focused analysis**: Narrow down to high-value segments (e.g. VIP leads, segmented outreach) without manual updates.
-- **Time-saver**: Eliminate repetitive manual selection—set it and forget it.
+- **Time-saver**: Eliminate repetitive manual selection — set it and forget it.
 
 ---
 
@@ -34,7 +34,7 @@ Looking for a way to **export Lemlist reports by tag** or simply **export all Le
 
 1. **Create a new Megabot** in Lembot and choose **"Export campaigns"**.
 2. Connect your Lemlist account and select the Google Spreadsheet & worksheet.
-3. On the **Campaign selection** step, pick **"By tag"** mode.
+3. On the **Campaign selection** step, pick **"Tag"** mode.
 4. Select one or more tags:
 
    ![megabot by tag](https://github.com/user-attachments/assets/99e536ee-f725-4b3d-9f44-0eface77c22f)
@@ -48,7 +48,7 @@ Your Google Sheet will now auto-update with **every campaign** matching those ta
 
 ## How to export all lemlist campaigns at once
 
-1. In the **Campaign selection** step, choose **"All campaigns"** mode.
+1. In the **Campaign selection** step, choose **"All"** mode.
 2. No further options required — Megabot will pull **every** campaign in your Lemlist team on each run.
 3. Continue and save your Megabot.
 
