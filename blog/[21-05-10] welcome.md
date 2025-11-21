@@ -49,7 +49,7 @@ I am François, the maker of [lembot.com](https://lembot.com) 👋 and fan of th
 
 I am a lemlister like you and build lembot to boost my productivity.
 
-## Lembot's date of birth
+## date of birth
 
 Lembot has been officially announced on Twitter on May 4th 2021.
 
@@ -61,8 +61,10 @@ It is born on February 21 at 9:35 pm. As a developer, let's print here the proje
 
 ## Lembot's homeland
 
-Lembot is born in France and will grow up in France 🇫🇷 for the love of 🥖, 🧀 and 🍷.
+Lembot is made in France 🇫🇷.
 
-Stay tuned,
+---
+
+Cheers 🍷
 
 François.

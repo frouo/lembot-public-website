@@ -125,8 +125,6 @@ Here is the list of all the lemlist event types available in the export
 
 ---
 
-Feel free if you have any questions,
-
 Cheers,
 
 François
