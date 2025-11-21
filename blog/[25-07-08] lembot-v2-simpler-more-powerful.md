@@ -1,7 +1,7 @@
 ---
 head:
-  title: "Lembot v2: Simpler, More Powerful - Lembot Blog"
-  description: "Discover the new Lembot v2 with a simplified workflow. No more confusion between bots and megabots - just one powerful bot to export all your Lemlist data."
+  title: "Lembot v2: Simpler, faster Lemlist exports to Google Sheets – Lembot Blog"
+  description: "Lembot v2 simplifies exporting Lemlist data with a unified bot workflow. Choose what to export, select campaigns manually, by tags, or all active campaigns at once."
 card:
   title: "Lembot v2: Simpler, More Powerful"
   description: "Discover the new Lembot v2 with a simplified workflow. No more confusion between bots and megabots - just one powerful bot to export all your Lemlist data."
@@ -15,7 +15,7 @@ author:
 tag: "whats-new"
 ---
 
-# Lembot v2: Simpler, More Powerful
+# Lembot v2: Export Lemlist data to Google Sheets, simplified
 
 Today, we are excited to announce Lembot v2 🎉
 
@@ -56,15 +56,15 @@ This is where the magic happens. You now have **3 flexible options**:
 
 ![Manual selection](https://github.com/user-attachments/assets/bf0fdac9-60d2-41af-8413-1730f049f785)
 
-**By tags**: Export all campaigns with specific tags automatically. Ideal for organizing exports by client, project, or campaign type.
+**By tags**: Export all campaigns with specific tags like "Q4-2025" or "LinkedIn" — and automatically include any new campaigns you tag later. Ideal for organizing exports by client, project, or campaign type.
 
 ![By tags selection](https://github.com/user-attachments/assets/aefa5dcf-f670-4c19-84c6-4ac569fcac9d)
 
-**All**: Export every active campaign at once. Set it and forget it - new campaigns are automatically included as long as they're active.
+**All active campaigns**: Export every active campaign at once. Set it and forget it — new campaigns are automatically included as long as they're active.
 
 ![All campaigns selection](https://github.com/user-attachments/assets/f0a8ba0f-1003-4f5e-83ac-86d7a2f3be0a)
 
-## What happens to my old bots and megatbots?
+## What happens to my old bots and megabots?
 
 Your existing bots and megabots will continue to work exactly as they do today.
 
@@ -81,11 +81,29 @@ If you have custom columns in your old bots or megabots, simply:
 
 That's it! Your custom configuration is preserved.
 
+---
+
+## FAQs
+
+### Can I export multiple campaigns at once?
+
+Absolutely. The "By tags" and "All active campaigns" options let you export dozens (or even hundreds) of campaigns in a single automation.
+
+### Does this change my pricing?
+
+Not at all. Your current subscription stays the same, with all v2 features included at no extra cost.
+
+### Do I need to recreate my existing bots right away?
+
+No rush. Your current bots will keep running without any changes. Migrate to v2 whenever you're ready by creating new bots.
+
+---
+
 ## Ready to try v2?
 
 Head over to your [Lembot dashboard](https://lembot.com/dashboard) and create your first v2 bot. The interface will guide you through each step.
 
-And as always, if you have any questions or feedback, just [send me an email](mailto:francois@lembot.com) or use the chat. I read everything and your input shapes the future of lembot.
+And as always, if you have any questions or feedback, just [send me an email](mailto:francois@lembot.com) or use the chat. I read everything and your input shapes the future of Lembot.
 
 [Create your first v2 bot now ↗️](https://lembot.com/signup)
 
