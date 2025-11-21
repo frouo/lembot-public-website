@@ -1,10 +1,10 @@
 ---
 head:
-  title: "How to export lemlist reports by tag or all campaigns at once – Lembot Blog"
-  description: "Step-by-step guide to export Lemlist reports by tag or export all Lemlist campaigns at once into Google Sheets using Lembot Megabot."
+  title: "How to export lemlist reports by tags or all campaigns at once – Lembot Blog"
+  description: "Step-by-step guide to export Lemlist reports by tags or export all Lemlist campaigns at once into Google Sheets using Lembot Megabot."
 card:
-  title: "Export lemlist reports by tag or all at once"
-  description: "Learn how to automatically export Lemlist reports by tag or dump every campaign at once into your Google Sheets."
+  title: "Export lemlist reports by tags or all at once"
+  description: "Learn how to automatically export Lemlist reports by tags or dump every campaign at once into your Google Sheets."
 coverUrl: "https://user-images.githubusercontent.com/2499356/209328072-82d60033-5cf2-4083-884b-d7ed541ac6b3.jpg"
 emoji: "🎓"
 date: "2025-06-04"
@@ -16,13 +16,13 @@ author:
 tag: "how-to"
 ---
 
-# How to export lemlist reports by tag or all campaigns at once
+# How to export lemlist reports by tags or all campaigns at once
 
-Looking for a way to **export Lemlist reports by tag** or simply **export all Lemlist campaigns at once** into your Google Sheets? With Lembot’s new Megabot modes, you can automate your Lemlist exports in minutes—filter by tag or grab every campaign in one go.
+Looking for a way to **export Lemlist reports by tags** or simply **export all Lemlist campaigns at once** into your Google Sheets? With Lembot’s new Megabot modes, you can automate your Lemlist exports in minutes—filter by tags or grab every campaign in one go.
 
 ---
 
-## Why export lemlist reports by tag
+## Why export lemlist reports by tags
 
 - **Dynamic dashboards**: Only include campaigns tagged "LinkedIn" or "Q3-2025" so new campaigns flow in automatically.
 - **Focused analysis**: Narrow down to high-value segments (e.g. VIP leads, segmented outreach) without manual updates.
@@ -30,15 +30,15 @@ Looking for a way to **export Lemlist reports by tag** or simply **export all Le
 
 ---
 
-## How to export lemlist reports by tag step by step
+## How to export lemlist reports by tags step by step
 
 1. **Create a new Megabot** in Lembot and choose **"Export campaigns"**.
 2. Connect your Lemlist account and select the Google Spreadsheet & worksheet.
 3. On the **Campaign selection** step, pick **"Tag"** mode.
 4. Select one or more tags:
 
-   ![megabot by tag](https://github.com/user-attachments/assets/99e536ee-f725-4b3d-9f44-0eface77c22f)
-   _Selecting "Head Of" and "VIP" tags to export Lemlist reports by tag._
+   ![megabot by tags](https://github.com/user-attachments/assets/99e536ee-f725-4b3d-9f44-0eface77c22f)
+   _Selecting "Head Of" and "VIP" tags to export Lemlist reports by tags._
 
 5. Click **Continue**, **Save**, then **Run Bot** or schedule your weekly export.
 
@@ -58,13 +58,13 @@ Now, whenever you need to **export all Lemlist reports at once**, just click **R
 
 ## FAQs
 
-### Can I mix "By tag" and "All campaigns" in one Megabot?
+### Can I mix "By tags" and "All campaigns" in one Megabot?
 
-Not in the same run — choose one mode per Megabot. For combined exports, set up two Megabots: one for "By tag" and one for "All campaigns."
+Not in the same run — choose one mode per Megabot. For combined exports, set up two Megabots: one for "By tags" and one for "All campaigns."
 
 ### What if I add new tags later?
 
-In **By tag** mode, any new campaign tagged with your selected labels will automatically appear in your next export.
+In **By tags** mode, any new campaign tagged with your selected labels will automatically appear in your next export.
 
 ### Where do I find the exported sheet?
 
@@ -74,7 +74,7 @@ Your Google Sheet and worksheet are defined when you configure the Megabot — o
 
 ## Ready to automate your lemlist reports
 
-Stop manually updating exports — use Lembot Megabot to **export Lemlist reports by tag** or **export all Lemlist campaigns at once**.
+Stop manually updating exports — use Lembot Megabot to **export Lemlist reports by tags** or **export all Lemlist campaigns at once**.
 
 [Try Lembot for free ↗️](https://lembot.com/signup)
 
