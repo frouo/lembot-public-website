@@ -3,7 +3,7 @@ head:
   title: "What's New in Lembot | For Growth Hackers and Lemlisters"
   description: "Discover what's new in lembot. We continously deliver new features based on lemlisters feedback. Follow our journey, we build in public."
 coverUrl: "https://user-images.githubusercontent.com/2499356/209326570-ae7d6389-6546-464c-a2c8-4fc419252845.jpeg"
-emoji: "🤙"
+emoji: "✨"
 date: "2022-01-20"
 ---
 
@@ -13,12 +13,20 @@ All new updates and improvements to lembot.
 
 Have an feature idea for lembot? Feel free to chat or [email](mailto:francois@lembot.com) me.
 
+## Jul 8, 2025
+
+Announcing **Lembot v2**: One bot. All your campaigns. Zero confusion.
+
+Say goodbye to megabots, bots now handle everything.
+
+[Read more](https://lembot.com/blog/lembot-v2-simpler-more-powerful)
+
 ## Jun 4, 2025
 
 Megabot now supports new campaigns selection mode:
 
 - "All campaigns" mode: export every campaign in one go, no manual selection needed.
-- "By tag" mode: pick one or more tags and Lembot will automatically include any campaign with those tags (including new ones) on each run.
+- "By tags" mode: pick one or more tags and Lembot will automatically include any campaign with those tags (including new ones) on each run.
 
 ---
 
@@ -54,11 +62,15 @@ _March 2025 update: the column has been renamed `campaignTags` to match with Lem
 
 We've been working on a new "help center" article series for our Blog page. This resource will be a great help to many of you.
 
+---
+
 ## Jun 2, 2022
 
 Export lemlist leads: custom variables, email, firstName, lastName, etc.
 
 ![export leads spotlight](https://user-images.githubusercontent.com/2499356/171725430-bf1e5336-ab0c-444a-b984-de02bc4664bd.jpg)
+
+---
 
 ## March 24, 2022
 
@@ -71,6 +83,8 @@ Everything is now available.
 Exclusively on lembot.
 
 ![export activities bot](https://user-images.githubusercontent.com/2499356/163671803-e3651137-488e-48be-bb97-cdf245c4b1c7.jpg)
+
+---
 
 ## Jan 20, 2022
 
